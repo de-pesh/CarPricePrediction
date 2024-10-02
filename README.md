@@ -53,16 +53,16 @@ Follow these steps to run the project:
 
 The dataset CarPrice.csv contains the following features:
 
-• car_ID: Unique identifier for each car.
-•	CarName: Name and brand of the car.
-•	fueltype: Type of fuel (gas or diesel).
-•	aspiration: Type of engine aspiration (turbocharged or standard).
-•	doornumber: Number of doors (two or four).
-•	carbody: Car body type (sedan, hatchback, etc.).
-•	drivewheel: Drive wheel type (FWD, RWD, etc.).
-•	enginelocation: Location of the engine (front or rear).
-•	enginesize: Size of the car’s engine.
-•	horsepower: Power output of the engine.
-•	citympg and highwaympg: Fuel efficiency in the city and highway.
-•	price: The target variable representing the price of the car.
+- car_ID: Unique identifier for each car.
+-	CarName: Name and brand of the car.
+-	fueltype: Type of fuel (gas or diesel).
+-	aspiration: Type of engine aspiration (turbocharged or standard).
+-	doornumber: Number of doors (two or four).
+-	carbody: Car body type (sedan, hatchback, etc.).
+-	drivewheel: Drive wheel type (FWD, RWD, etc.).
+-	enginelocation: Location of the engine (front or rear).
+-	enginesize: Size of the car’s engine.
+-	horsepower: Power output of the engine.
+-	citympg and highwaympg: Fuel efficiency in the city and highway.
+-	price: The target variable representing the price of the car.
 
