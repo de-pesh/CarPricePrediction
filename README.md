@@ -29,4 +29,16 @@ This project aims to predict car prices based on various features of the vehicle
 You need the following libraries installed to run this project:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn statsmodels
+  pip install pandas matplotlib seaborn scikit-learn statsmodels
+
+
+
+
+## Running the Project
+
+Follow these steps to run the project:
+
+1. **Clone the repository**: First, clone the project repository to your local machine.
+   ```bash
+   git clone https://github.com/yourusername/car-price-prediction.git
+   cd car-price-prediction
