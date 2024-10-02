@@ -41,4 +41,28 @@ Follow these steps to run the project:
    ```bash
    git clone https://github.com/yourusername/car-price-prediction.git
    cd car-price-prediction
-```
+
+2. **Install Prerequisites mentioned above**
+3. **Place the dataset:**
+- Place the CarPrice.csv dataset into the root directory of the project.
+4.	**Run the Jupyter Notebook:**
+- Open the carPrice.ipynb file in a Jupyter Notebook and run the cells sequentially. The notebook will perform data exploration, feature selection, and model training.
+
+
+## Dataset Description
+
+The dataset CarPrice.csv contains the following features:
+
+• car_ID: Unique identifier for each car.
+•	CarName: Name and brand of the car.
+•	fueltype: Type of fuel (gas or diesel).
+•	aspiration: Type of engine aspiration (turbocharged or standard).
+•	doornumber: Number of doors (two or four).
+•	carbody: Car body type (sedan, hatchback, etc.).
+•	drivewheel: Drive wheel type (FWD, RWD, etc.).
+•	enginelocation: Location of the engine (front or rear).
+•	enginesize: Size of the car’s engine.
+•	horsepower: Power output of the engine.
+•	citympg and highwaympg: Fuel efficiency in the city and highway.
+•	price: The target variable representing the price of the car.
+
