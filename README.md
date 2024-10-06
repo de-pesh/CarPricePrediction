@@ -39,7 +39,7 @@ Follow these steps to run the project:
 
 1. **Clone the repository**: First, clone the project repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/de-pesh/car-price-prediction.git
    cd car-price-prediction
 
 2. **Install Prerequisites mentioned above**
